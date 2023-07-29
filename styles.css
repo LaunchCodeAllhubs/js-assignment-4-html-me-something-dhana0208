@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+main{
+    margin-left:150px;
+     margin-right:150px;
+      background-color:goldenrod;
+  
+  }
+  img{
+      width: 100%;
+  }
+  
+  #mainHeading{
+     text-align: center;
+      color:red;
+  }
+  
+  .bodyclass{
+     background-color: grey;
+     margin:8px;
+     display:block;
+  }
+  p{
+     font-style: italic;
+  }
+  #list{
+     border-width:1px;
+     border-style:dotted;
+  }
+  
+  .funParagraph{
+      color:green;
+  }
+  
+  article{
+      display: block;
+  }
